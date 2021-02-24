@@ -22,9 +22,9 @@ npx create-react-app my-app
 cd my-app  
 npm i bootstrap reactstrap axios  
   
-La siguiente línea lanza el proyecto React:  
+· La siguiente línea lanza el proyecto React:  
 npm start  
   
-React se lanza a través del puerto 3000:  
+· React se lanza a través del puerto 3000:  
 http://localhost:3000  
   
