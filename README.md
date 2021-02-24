@@ -1,8 +1,11 @@
-# frameworks_API_React
+# frameworks_API_React  
+__FrontEnd__  
   
-[frameworks_API](https://github.com/LuisValles92/frameworks_API)  
+API REST PHP consumida desde React.  
   
-Ruta: htdocs\DAW.  
+[frameworks_API](https://github.com/LuisValles92/frameworks_API) | [Repositorio](https://github.com/LuisValles92/frameworks_API_React)  
+  
+· Ruta: htdocs\DAW.  
   
 · Necesario tener instalado Node.js.  
   
@@ -24,3 +27,4 @@ npm start
   
 React se lanza a través del puerto 3000:  
 http://localhost:3000  
+  
